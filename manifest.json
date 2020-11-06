@@ -2,7 +2,7 @@
 	"name": "Progressive Web App",
 	"short_name": "Demo PWA",
 	"description": "Demo for progressive web app with push notifications, background sync etc.",
-	"start_url": "./index.html?utm=homescreen",
+	"start_url": ".https://6m1n5g7izgy6siovnzoz8q-on.drv.tw/",
 	"display": "standalone",
 	"orientation": "portrait",
 	"background_color": "#f5f5f5",
